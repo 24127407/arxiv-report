@@ -1,0 +1,327 @@
+{
+  "milestone": "m1",
+  "total_wall_s": 560.9,
+  "stages_s": {
+    "discovery": 4.67,
+    "crawl": 556.21
+  },
+  "n_papers_timed": 25,
+  "avg_paper_s": 22.249,
+  "max_paper_s": 161.874,
+  "discovery_s": 4.67,
+  "n_ok": 20,
+  "n_failed": 5,
+  "success_rate": 0.8,
+  "ref_n_ok": 25,
+  "ref_n_failed": 0,
+  "ref_success_rate": 1.0,
+  "avg_refs_per_paper": 36.64,
+  "avg_arxiv_refs_per_paper": 19.32,
+  "n_papers_recorded": 22,
+  "n_tex_papers": 20,
+  "avg_paper_size_before_bytes": 4775222,
+  "avg_paper_size_after_bytes": 123014,
+  "n_tex_versions": 26,
+  "n_pdf_only_versions": 3,
+  "n_papers_with_pdf_only_version": 2,
+  "avg_version_size_before_bytes": 3673248,
+  "avg_version_size_after_bytes": 94626,
+  "peak_ram_mb": 71.6,
+  "avg_ram_mb": 54.6,
+  "ram_samples": 1069,
+  "disk_baseline_mb": 0.0,
+  "peak_disk_mb": 21.1,
+  "final_output_mb": 2.8,
+  "final_output_bytes": 2976355,
+  "disk_estimated": false,
+  "paper_times_s": {
+    "2603.00580": 1.843,
+    "2603.00581": 3.996,
+    "2603.00582": 11.21,
+    "2603.00583": 1.369,
+    "2603.00584": 11.794,
+    "2603.00585": 4.958,
+    "2603.00586": 92.455,
+    "2603.00587": 1.486,
+    "2603.00588": 17.636,
+    "2603.00589": 21.29,
+    "2603.00590": 161.874,
+    "2603.00591": 48.662,
+    "2603.00592": 3.615,
+    "2603.00593": 12.102,
+    "2603.00594": 4.152,
+    "2603.00595": 9.511,
+    "2603.00596": 1.512,
+    "2603.00597": 9.486,
+    "2603.00598": 1.89,
+    "2603.00599": 4.169,
+    "2603.00600": 89.203,
+    "2603.00601": 16.893,
+    "2603.00602": 1.755,
+    "2603.00603": 8.248,
+    "2603.00604": 15.103
+  },
+  "paper_sizes_bytes": {
+    "2603.00580": {
+      "before": 1616521,
+      "after": 226143,
+      "tex_versions": 1
+    },
+    "2603.00582": {
+      "before": 18371300,
+      "after": 404078,
+      "tex_versions": 2
+    },
+    "2603.00583": {
+      "before": 60690,
+      "after": 60466,
+      "tex_versions": 1
+    },
+    "2603.00584": {
+      "before": 1437493,
+      "after": 82989,
+      "tex_versions": 1
+    },
+    "2603.00585": {
+      "before": 4961278,
+      "after": 129367,
+      "tex_versions": 1
+    },
+    "2603.00586": {
+      "before": 19248390,
+      "after": 67984,
+      "tex_versions": 1
+    },
+    "2603.00587": {
+      "before": 373983,
+      "after": 116745,
+      "tex_versions": 1
+    },
+    "2603.00588": {
+      "before": 40747,
+      "after": 40534,
+      "tex_versions": 1
+    },
+    "2603.00592": {
+      "before": 1047088,
+      "after": 42929,
+      "tex_versions": 1
+    },
+    "2603.00593": {
+      "before": 34069,
+      "after": 33831,
+      "tex_versions": 1
+    },
+    "2603.00594": {
+      "before": 1660725,
+      "after": 85857,
+      "tex_versions": 1
+    },
+    "2603.00596": {
+      "before": 172463,
+      "after": 132419,
+      "tex_versions": 1
+    },
+    "2603.00597": {
+      "before": 3929488,
+      "after": 62610,
+      "tex_versions": 1
+    },
+    "2603.00598": {
+      "before": 1199825,
+      "after": 53559,
+      "tex_versions": 1
+    },
+    "2603.00599": {
+      "before": 2458412,
+      "after": 126012,
+      "tex_versions": 1
+    },
+    "2603.00600": {
+      "before": 22106504,
+      "after": 143258,
+      "tex_versions": 1
+    },
+    "2603.00601": {
+      "before": 3065008,
+      "after": 224906,
+      "tex_versions": 4
+    },
+    "2603.00602": {
+      "before": 958777,
+      "after": 78023,
+      "tex_versions": 1
+    },
+    "2603.00603": {
+      "before": 162760,
+      "after": 162286,
+      "tex_versions": 2
+    },
+    "2603.00604": {
+      "before": 12598919,
+      "after": 186283,
+      "tex_versions": 2
+    }
+  },
+  "paper_results": {
+    "2603.00580": true,
+    "2603.00581": true,
+    "2603.00582": true,
+    "2603.00583": true,
+    "2603.00584": true,
+    "2603.00585": true,
+    "2603.00586": false,
+    "2603.00587": true,
+    "2603.00588": true,
+    "2603.00589": false,
+    "2603.00590": false,
+    "2603.00591": true,
+    "2603.00592": true,
+    "2603.00593": true,
+    "2603.00594": true,
+    "2603.00595": false,
+    "2603.00596": true,
+    "2603.00597": true,
+    "2603.00598": true,
+    "2603.00599": true,
+    "2603.00600": false,
+    "2603.00601": true,
+    "2603.00602": true,
+    "2603.00603": true,
+    "2603.00604": true
+  },
+  "paper_references": {
+    "2603.00580": {
+      "ok": true,
+      "total": 0,
+      "with_arxiv": 0
+    },
+    "2603.00581": {
+      "ok": true,
+      "total": 56,
+      "with_arxiv": 12
+    },
+    "2603.00582": {
+      "ok": true,
+      "total": 21,
+      "with_arxiv": 15
+    },
+    "2603.00583": {
+      "ok": true,
+      "total": 19,
+      "with_arxiv": 5
+    },
+    "2603.00584": {
+      "ok": true,
+      "total": 5,
+      "with_arxiv": 0
+    },
+    "2603.00585": {
+      "ok": true,
+      "total": 35,
+      "with_arxiv": 27
+    },
+    "2603.00586": {
+      "ok": true,
+      "total": 37,
+      "with_arxiv": 29
+    },
+    "2603.00587": {
+      "ok": true,
+      "total": 45,
+      "with_arxiv": 29
+    },
+    "2603.00588": {
+      "ok": true,
+      "total": 40,
+      "with_arxiv": 12
+    },
+    "2603.00589": {
+      "ok": true,
+      "total": 56,
+      "with_arxiv": 40
+    },
+    "2603.00590": {
+      "ok": true,
+      "total": 0,
+      "with_arxiv": 0
+    },
+    "2603.00591": {
+      "ok": true,
+      "total": 97,
+      "with_arxiv": 40
+    },
+    "2603.00592": {
+      "ok": true,
+      "total": 28,
+      "with_arxiv": 26
+    },
+    "2603.00593": {
+      "ok": true,
+      "total": 16,
+      "with_arxiv": 4
+    },
+    "2603.00594": {
+      "ok": true,
+      "total": 56,
+      "with_arxiv": 20
+    },
+    "2603.00595": {
+      "ok": true,
+      "total": 65,
+      "with_arxiv": 45
+    },
+    "2603.00596": {
+      "ok": true,
+      "total": 53,
+      "with_arxiv": 25
+    },
+    "2603.00597": {
+      "ok": true,
+      "total": 34,
+      "with_arxiv": 21
+    },
+    "2603.00598": {
+      "ok": true,
+      "total": 20,
+      "with_arxiv": 0
+    },
+    "2603.00599": {
+      "ok": true,
+      "total": 51,
+      "with_arxiv": 33
+    },
+    "2603.00600": {
+      "ok": true,
+      "total": 52,
+      "with_arxiv": 37
+    },
+    "2603.00601": {
+      "ok": true,
+      "total": 18,
+      "with_arxiv": 13
+    },
+    "2603.00602": {
+      "ok": true,
+      "total": 41,
+      "with_arxiv": 21
+    },
+    "2603.00603": {
+      "ok": true,
+      "total": 30,
+      "with_arxiv": 10
+    },
+    "2603.00604": {
+      "ok": true,
+      "total": 41,
+      "with_arxiv": 19
+    }
+  },
+  "coverage": {
+    "expected_versions": 36,
+    "crawled_versions": 29,
+    "failed_versions": 7,
+    "not_found_papers": 0,
+    "version_coverage": 0.8056
+  }
+}
