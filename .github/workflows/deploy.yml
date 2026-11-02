@@ -24,7 +24,7 @@ jobs:
       - run: python -m ipykernel install --user --name python3
       - run: jupyter book build --html --execute
         env:
-          BASE_URL: /arxiv-report
+            BASE_URL: /nhom14-arxiv-report
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_build/html
