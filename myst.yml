@@ -6,7 +6,7 @@ project:
   description: Báo cáo các milestone của đồ án Introduction to Data Science.
   github: https://github.com/24127407/arxiv-report
   authors:
-    - name: <Tên nhóm hoặc tên các thành viên>
+    - name: Nhóm 14
   toc:
     - file: index.md
     - file: m1_crawling.ipynb

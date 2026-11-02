@@ -1,4 +1,4 @@
-﻿# Đồ án arXiv
+# Đồ án arXiv
 
 Báo cáo của nhóm cho đồ án Introduction to Data Science, gồm ba milestone:
 
