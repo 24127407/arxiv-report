@@ -1,0 +1,14 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 9ae88198-5fca-4033-9bcb-58424bc52724
+  title: Đồ án arXiv - Báo cáo nhóm
+  description: Báo cáo các milestone của đồ án Introduction to Data Science.
+  github: https://github.com/<tài-khoản>/arxiv-report
+  authors:
+    - name: <Tên nhóm hoặc tên các thành viên>
+  toc:
+    - file: index.md
+    - file: m1_crawling.ipynb
+site:
+  template: book-theme
